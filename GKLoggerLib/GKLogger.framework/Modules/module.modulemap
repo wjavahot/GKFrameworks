@@ -1,0 +1,6 @@
+framework module GKLogger {
+  umbrella header "GKLogger.h"
+
+  export *
+  module * { export * }
+}
